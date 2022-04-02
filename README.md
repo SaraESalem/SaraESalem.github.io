@@ -15,9 +15,9 @@
 
 ### My Proud Applications
 
-✨ Words For Kids - Learn & Play
+✨ Words - Learn & Play
 
-   you can Learn English - French - Arabic Words every day for kids and for everyone .
+   you can Learn English - French - Arabic Words every day.
    you can choose a language to learn after that you can choose number of words per day to learn and study new words every 24 hour.
    the application build by away to love it, it has many exams to test your self  and games to make your learning curve very funny.
 
